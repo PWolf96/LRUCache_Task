@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCache_Task_FINBOURNE", "LRUCache_Task_FINBOURNE\LRUCache_Task_FINBOURNE.csproj", "{D3D48A73-4C20-4461-99B5-14F0C30B995F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCache_UnitTests", "LRUCache_UnitTests\LRUCache_UnitTests.csproj", "{49C638C3-90D8-4940-B272-507258465AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D48A73-4C20-4461-99B5-14F0C30B995F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D48A73-4C20-4461-99B5-14F0C30B995F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D48A73-4C20-4461-99B5-14F0C30B995F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D48A73-4C20-4461-99B5-14F0C30B995F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C638C3-90D8-4940-B272-507258465AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C638C3-90D8-4940-B272-507258465AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C638C3-90D8-4940-B272-507258465AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C638C3-90D8-4940-B272-507258465AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F11112-AB5F-4836-BDB3-901E2B38DDFC}
+	EndGlobalSection
+EndGlobal
